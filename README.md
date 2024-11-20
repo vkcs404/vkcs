@@ -51,4 +51,4 @@ Ferramenta simples para verificar configurações de segurança básicas em site
 
 ---
 
-✨ _"ransformando ideias em soluções seguras e inovadoras para um mundo digital melhor.😊"_  
+✨ _"Transformando ideias em soluções seguras e inovadoras para um mundo digital melhor.😊"_  
