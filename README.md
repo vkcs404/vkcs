@@ -46,8 +46,7 @@ Ferramenta simples para verificar configurações de segurança básicas em site
 
 ## 📫 Onde me encontrar:
 - Site da Prosaffe: [prosaffe.com](https://prosaffe.com)
-- LinkedIn: [https://www.linkedin.com/in/vitor-santos/]([https://www.linkedin.com/in/vitor-santos/])
-- Email: [contato@prosaffe.com](mailto:contato@prosaffe.com)
+- Email: [vitor.vkcs31@gmail.com](mailto:vitor.vkcs31@gmail.com)
 
 ---
 
