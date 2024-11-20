@@ -26,13 +26,13 @@ Plataforma de cibersegurança que analisa sites para identificar vulnerabilidade
 
 ---
 
-### 🚜 [IoT Agro](https://github.com/seuperfil/iot-agro)  
+### 🚜 [IoT Agro](https://github.com/vkcs404/iot-agro)  
 💡 **Sobre:**  
 Automação de processos em fazendas usando ESP32 e Raspberry Pi Pico para otimizar a gestão de gado e melhorar a produtividade.
 
 ---
 
-### 🔐 [VHX NF-e Integrator](https://github.com/seuperfil/vhx-nfe-integrator)  
+### 🔐 [VHX NF-e Integrator](https://github.com/vkcs404/vhx-nfe-integrator)  
 💡 **Sobre:**  
 Sistema de integração para emissão de notas fiscais com suporte ao **VHSYS** e plataformas alternativas, garantindo compatibilidade e automação no processo de geração de documentos fiscais.
 
