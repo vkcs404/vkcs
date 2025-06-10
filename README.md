@@ -6,10 +6,10 @@
 
 ## 🛠️ Tecnologias que uso:
 - **Cibersegurança:** Verificação de vulnerabilidades, análise de exposição digital
-- **Back-end:** Python, Flask, Node.js
-- **Front-end:** HTML, CSS, JavaScript
+- **Back-end:** Python, Flask, Node.js, Java
+- **Front-end:** HTML, CSS, JavaScript, TypeScript
 - **IoT:** ESP32, Raspberry Pi Pico
-- **Infraestrutura:** Linux (Manjaro), VPS, Nginx
+- **Infraestrutura:** Linux (Manjaro), Linux (Debian), VPS, Nginx, Git
 - **Ferramentas:** Thonny, PuTTY, Wokwi
 
 ---
