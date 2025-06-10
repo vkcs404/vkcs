@@ -27,7 +27,7 @@ Plataforma de cibersegurança que analisa sites para identificar vulnerabilidade
 ---
 
 ### 🤖 [Startup Finder Bot](https://github.com/vkcs404/startup-finder)  
-💡**Sobre:**
+💡 **Sobre:**  
 Sistema de análise automatizada de fundadores de startups com uso de LangChain e OpenAI, gerando perfis estruturados e pontuação inteligente com base em heurísticas aplicadas a dados simulados. Desenvolvido com interface em Flask e foco em aplicações de venture capital e validação de empreendedores.
 
 ---
