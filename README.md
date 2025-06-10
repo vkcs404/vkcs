@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Vitor 👨‍💻
+# 👋 Olá! Eu sou o Vitor Santos 👨‍💻
 
 🚀 Desenvolvedor, entusiasta de tecnologia e fundador da [**Prosaffe**](https://prosaffe.com), uma empresa especializada em cibersegurança. Identificamos vulnerabilidades e áreas de exposição em sites, ajudando empresas a agirem antes que seja tarde!
 
@@ -26,9 +26,9 @@ Plataforma de cibersegurança que analisa sites para identificar vulnerabilidade
 
 ---
 
-### 🚜 [IoT Agro](https://github.com/vkcs404/iot-agro)  
-💡 **Sobre:**  
-Automação de processos em fazendas usando ESP32 e Raspberry Pi Pico para otimizar a gestão de gado e melhorar a produtividade.
+### 🤖 [Startup Finder Bot](https://github.com/vkcs404/startup-finder)  
+💡**Sobre:**
+Sistema de análise automatizada de fundadores de startups com uso de LangChain e OpenAI, gerando perfis estruturados e pontuação inteligente com base em heurísticas aplicadas a dados simulados. Desenvolvido com interface em Flask e foco em aplicações de venture capital e validação de empreendedores.
 
 ---
 
