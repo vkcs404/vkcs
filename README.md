@@ -40,9 +40,9 @@ Sistema de integração para emissão de notas fiscais com suporte ao **VHSYS** 
 
 
 ## 📫 Onde me encontrar:
+- Email: [dev.vkcs@gmail.com](mailto:dev.vkcs@gmail.com)
 - Site da Prosaffe: [prosaffe.com](https://prosaffe.com)
-- Email: [vitor.vkcs31@gmail.com](mailto:vitor.vkcs31@gmail.com)
-
+  
 ---
 
 ✨ _"Transformando ideias em soluções seguras e inovadoras para um mundo digital melhor.😊"_  
